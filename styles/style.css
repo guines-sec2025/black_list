@@ -4,7 +4,7 @@ body{
     margin-right: auto;
     text-align: center;
     background-color: black;
-    color: gray;
+    color: orange;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 70px;
     margin-bottom: 100px;
@@ -20,9 +20,9 @@ p{
 
 div{
     padding: 20px;
-    color: gray;
+    color: orange;
     background-color: black;
-    border: 2px solid gray;
+    border: 2px solid orange;
     border-radius: 10px;
 }
 
@@ -32,7 +32,7 @@ hr{
 }
 
 nav{
-    background-color: gray;
+    background-color: orange;
     text-align: center; 
 }
 
@@ -58,7 +58,7 @@ header{
     border: 2px solid black;
     color: black;
     border-radius: 6px;
-    background-color: gray;
+    background-color: orange;
     margin-bottom: 40px;
 }
 
