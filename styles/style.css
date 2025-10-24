@@ -21,7 +21,7 @@ p{
 div{
     padding: 20px;
     color: orange;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.403);
     border: 2px solid orange;
     border-radius: 10px;
 }
@@ -74,4 +74,5 @@ img{
 img:hover{
     width: 420px;
     box-shadow: 5px 5px 5px rgba(245, 245, 245, 0.115);
+
 }
